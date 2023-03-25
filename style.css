@@ -127,7 +127,7 @@ hr{
     .container{
         display: grid;
         grid-template-columns: 1fr;
-        width: 450px;
+        width: 400px;
         /* padding: 0; */
         gap: 45px;
         text-align: center;
